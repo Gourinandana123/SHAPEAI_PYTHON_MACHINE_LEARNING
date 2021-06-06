@@ -1,0 +1,2 @@
+# SHAPEAI_PYTHON_MACHINE_LEARNING
+Bootcamp project
